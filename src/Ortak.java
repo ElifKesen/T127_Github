@@ -15,6 +15,7 @@ public class Ortak {
 
         System.out.println("nazime");
         System.out.println("asli");
+        System.out.println("huseyin");
 
 
     }
