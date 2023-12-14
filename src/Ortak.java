@@ -7,7 +7,11 @@ public class Ortak {
         System.out.println("Ortaklık karışacak vaziyet alın --babayigit");
 
         System.out.println("deneme");
+
         System.out.println("en bastan");
+
+        System.out.println("zehra dan selam");
+
 
 
     }
