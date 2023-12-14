@@ -13,6 +13,9 @@ public class Ortak {
         System.out.println("zehra dan selam");
 
 
+        System.out.println("nazime");
+        System.out.println("asli");
+
 
     }
 }
