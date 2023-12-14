@@ -9,6 +9,8 @@ public class Ortak {
         System.out.println("deneme");
         System.out.println("zehra dan selam");
 
+        System.out.println("nazime");
+
     }
 }
 /*
