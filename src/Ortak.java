@@ -8,6 +8,8 @@ public class Ortak {
 
         System.out.println("deneme");
 
+        System.out.println("nazime");
+
     }
 }
 /*
