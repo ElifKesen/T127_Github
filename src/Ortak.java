@@ -3,6 +3,14 @@ public class Ortak {
         System.out.println("Hosgeldiniz");
         System.out.println("Ne yaparsan Yap AŞK ile Yap!");
         System.out.println("T127");
+
+        System.out.println("Ortaklık karışacak vaziyet alın --babayigit");
+
+        System.out.println("deneme");
+        System.out.println("zehra dan selam");
+
+        System.out.println("nazime");
+
     }
 }
 /*
